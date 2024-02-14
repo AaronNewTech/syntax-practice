@@ -1,4 +1,4 @@
-
+// arrow functions with verbose and concise syntax
 const addTwoNumbers = (num1, num2) => {
     return num1 + num2
 }
